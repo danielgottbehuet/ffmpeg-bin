@@ -1,0 +1,15 @@
+{
+  "name": "ffmpeg-bin",
+  "version": "1.0.0",
+  "author": "Daniel Gottbehüt",
+  "description": "Bin-Wrapper for a darwin ffmpeg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "bin-wrapper": "^4.1.0"
+  }
+}
