@@ -9,7 +9,5 @@
   },
   "keywords": [],
   "license": "ISC",
-  "dependencies": {
-    "bin-wrapper": "^4.1.0"
-  }
+  "dependencies": {}
 }
